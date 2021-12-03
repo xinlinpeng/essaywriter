@@ -1,0 +1,9 @@
+django
+PyJWT
+PyMySQL
+djangorestframework
+oss2
+uwsgi
+django-cors-headers
+vue
+
